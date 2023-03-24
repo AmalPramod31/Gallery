@@ -1,0 +1,30 @@
+.c{
+    width: 22%;
+   
+    background-color: black;
+    border: 2px #fc0a0a solid;
+    float: left;
+    color: white;
+    
+}
+h1{
+    text-align: center;
+}
+.c-1{
+    margin-left: 20px;
+}
+.c-2{
+    margin-left: 20px;
+}
+.c-3{
+    margin-left: 20px;
+}
+.c-4{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+img{
+    width: 100%;
+    height: 200px;
+
+}
